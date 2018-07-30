@@ -14,6 +14,7 @@
 		D7694D9B210F63EB0001AA94 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D7694D99210F63EB0001AA94 /* LaunchScreen.storyboard */; };
 		D7694DA6210F63EB0001AA94 /* testjenkins2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7694DA5210F63EB0001AA94 /* testjenkins2Tests.swift */; };
 		D7694DB1210F63EB0001AA94 /* testjenkins2UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7694DB0210F63EB0001AA94 /* testjenkins2UITests.swift */; };
+		D7694DBF210F66E80001AA94 /* loginsuccessViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7694DBE210F66E80001AA94 /* loginsuccessViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		D7694DAC210F63EB0001AA94 /* testjenkins2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = testjenkins2UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D7694DB0210F63EB0001AA94 /* testjenkins2UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = testjenkins2UITests.swift; sourceTree = "<group>"; };
 		D7694DB2210F63EB0001AA94 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D7694DBE210F66E80001AA94 /* loginsuccessViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = loginsuccessViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				D7694D97210F63EB0001AA94 /* Assets.xcassets */,
 				D7694D99210F63EB0001AA94 /* LaunchScreen.storyboard */,
 				D7694D9C210F63EB0001AA94 /* Info.plist */,
+				D7694DBE210F66E80001AA94 /* loginsuccessViewController.swift */,
 			);
 			path = testjenkins2;
 			sourceTree = "<group>";
@@ -257,6 +260,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D7694D93210F63EA0001AA94 /* ViewController.swift in Sources */,
+				D7694DBF210F66E80001AA94 /* loginsuccessViewController.swift in Sources */,
 				D7694D91210F63EA0001AA94 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
