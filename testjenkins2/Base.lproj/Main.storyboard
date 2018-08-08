@@ -127,26 +127,26 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <stackView opaque="NO" contentMode="scaleToFill" fixedFrame="YES" axis="vertical" translatesAutoresizingMaskIntoConstraints="NO" id="5Qo-TN-aLl">
-                                <rect key="frame" x="133" y="323" width="109" height="20.5"/>
+                                <rect key="frame" x="133" y="323" width="138" height="20.5"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <subviews>
                                     <stackView opaque="NO" contentMode="scaleToFill" ambiguous="YES" axis="vertical" translatesAutoresizingMaskIntoConstraints="NO" id="71M-tm-UQY">
-                                        <rect key="frame" x="0.0" y="0.0" width="109" height="20.5"/>
+                                        <rect key="frame" x="0.0" y="0.0" width="138" height="20.5"/>
                                         <subviews>
                                             <stackView opaque="NO" contentMode="scaleToFill" ambiguous="YES" axis="vertical" translatesAutoresizingMaskIntoConstraints="NO" id="gmo-5u-rjH">
-                                                <rect key="frame" x="0.0" y="0.0" width="109" height="20.5"/>
+                                                <rect key="frame" x="0.0" y="0.0" width="138" height="20.5"/>
                                                 <subviews>
                                                     <stackView opaque="NO" contentMode="scaleToFill" ambiguous="YES" axis="vertical" translatesAutoresizingMaskIntoConstraints="NO" id="EMA-Ow-dVb">
-                                                        <rect key="frame" x="0.0" y="0.0" width="109" height="20.5"/>
+                                                        <rect key="frame" x="0.0" y="0.0" width="138" height="20.5"/>
                                                         <subviews>
                                                             <stackView opaque="NO" contentMode="scaleToFill" ambiguous="YES" axis="vertical" translatesAutoresizingMaskIntoConstraints="NO" id="Ebu-56-gh2">
-                                                                <rect key="frame" x="0.0" y="0.0" width="109" height="20.5"/>
+                                                                <rect key="frame" x="0.0" y="0.0" width="138" height="20.5"/>
                                                                 <subviews>
                                                                     <stackView opaque="NO" contentMode="scaleToFill" ambiguous="YES" axis="vertical" translatesAutoresizingMaskIntoConstraints="NO" id="cf2-4w-cRb">
-                                                                        <rect key="frame" x="0.0" y="0.0" width="109" height="20.5"/>
+                                                                        <rect key="frame" x="0.0" y="0.0" width="138" height="20.5"/>
                                                                         <subviews>
-                                                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" text="Login success" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="TOs-xo-zZo">
-                                                                                <rect key="frame" x="0.0" y="0.0" width="109" height="20.5"/>
+                                                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" text="Login success tag" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="TOs-xo-zZo">
+                                                                                <rect key="frame" x="0.0" y="0.0" width="138" height="20.5"/>
                                                                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                                                                 <nil key="textColor"/>
                                                                                 <nil key="highlightedColor"/>
