@@ -23,7 +23,7 @@ class testjenkins2Tests: XCTestCase {
     }
     
     func testExample() {
-        // tag test example
+        // tag test example 2 from Ben Chan
         // tag test example from Dev
         
         
