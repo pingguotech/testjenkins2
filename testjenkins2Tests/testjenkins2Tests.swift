@@ -13,7 +13,7 @@ class testjenkins2Tests: XCTestCase {
     
     override func setUp() {
         super.setUp()
-        // tag 5
+        // tag 5 after hiatus
         // Put setup code here. This method is called before the invocation of each test method in the class.
     }
     
